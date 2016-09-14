@@ -1,28 +1,14 @@
-== README
+# Assignment for Module #3: ActionPack
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The overall goal of this assignment is to assess your ability to implement and customize Rails scaffold. This includes:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+```sh
+- Creating a Rails scaffold for a Model, View, and Controller (MVC) 
+- Modifying the runtime application flow
+- Re-using and customizing partial views
+- Sharing state through the controller attributes with the view
+- Implementing an end-to-end display of a custom query result
+```
+The functional goal of this assignment is to implement a web application to manage TodoItems.
+ 
+  
