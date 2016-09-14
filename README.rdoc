@@ -11,3 +11,10 @@ This includes:
 - Implementing an end-to-end display of a custom query result
 
 The functional goal of this assignment is to implement a web application to manage TodoItems.
+
+1. Create the scaffold for the following model type: TodoItem
+2. Create the Database (DB) schema for TodoItem
+3. Change the default scaffolding to route to the index page versus the show page after a TodoItem is created
+4. Remove the Edit link from the index view.
+5. Modify the TodoItem view partial to display the Completed property when a TodoItem is being edited and not during creation.
+6. Display the number of completed TodoItems.
