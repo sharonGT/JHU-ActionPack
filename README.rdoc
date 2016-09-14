@@ -1,5 +1,8 @@
 Assignment for Module #3: ActionPack
-The overall goal of this assignment is to assess your ability to implement and customize Rails scaffold. This includes:
+
+The overall goal of this assignment is to assess your ability to implement and customize Rails scaffold. 
+
+This includes:
 
 - Creating a Rails scaffold for a Model, View, and Controller (MVC) 
 - Modifying the runtime application flow
