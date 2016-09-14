@@ -23,10 +23,13 @@
     <%= f.label :description %><br>
     <%= f.text_area :description %>
   </div>
+  <!--adding conditional logic to this _form.html.erb partial so that it only displays the completed property when editing and not when creating-->
+  <% if @todo_item.persisted? %>
   <div class="field">
     <%= f.label :completed %><br>
     <%= f.check_box :completed %>
   </div>
+  <% end %>
   <div class="actions">
     <%= f.submit %>
   </div>
