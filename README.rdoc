@@ -1,14 +1,10 @@
-# Assignment for Module #3: ActionPack
-
+Assignment for Module #3: ActionPack
 The overall goal of this assignment is to assess your ability to implement and customize Rails scaffold. This includes:
 
-```sh
 - Creating a Rails scaffold for a Model, View, and Controller (MVC) 
 - Modifying the runtime application flow
 - Re-using and customizing partial views
 - Sharing state through the controller attributes with the view
 - Implementing an end-to-end display of a custom query result
-```
+
 The functional goal of this assignment is to implement a web application to manage TodoItems.
- 
-  
